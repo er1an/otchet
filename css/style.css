@@ -131,7 +131,7 @@
 
   left: 260px;
   width: calc(100% - 260px);
-  background-image: url("..img/i.jpg");
+  background-image: url("../img/i.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 680px;
