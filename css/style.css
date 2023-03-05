@@ -128,10 +128,12 @@
 }
 .home-section {
   position: relative;
-  background: #e4e9f7;
+
   left: 260px;
   width: calc(100% - 260px);
-
+  background-image: url("../img/i.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 680px;
   padding: 20px 0 0 0;
   /* margin: 0; */
@@ -140,7 +142,7 @@
   /* margin: 0 auto; */
 }
 .home-section .home-content h1 {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 .table {
   width: 800px;
